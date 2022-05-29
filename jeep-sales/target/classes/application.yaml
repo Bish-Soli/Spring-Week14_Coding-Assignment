@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: root
+    password: k5402002-r1
+    url: jdbc:mysql://localhost:3306/jeep
